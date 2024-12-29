@@ -1,0 +1,143 @@
+*{
+    font-family: Montserrat;    
+}
+p {
+    font-family: Roboto;
+}
+
+.header_container  {
+    color: #95E1D3;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.header_container > div > a {
+    text-decoration: none;
+    color: #95E1D3;
+    text-align: right;
+}
+
+.header_container > div > a:hover {
+    color: #F38181;
+}
+
+.workwth {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36.57px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.italic_font {
+    font-family: Kaushan Script;
+    text-transform: none;
+}
+
+.blocks--single_block > h4 {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #333333;
+}
+
+.blocks--single_block > p {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.blocks > img {
+    width: 37px;
+    height: 37px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.lorem {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.58px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #B6B6B6;
+}
+
+.one_of_many > p {
+    max-width: 380px;
+    margin-right: 30px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.one_of_many > p > i {
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 17.58px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #B6B6B6;
+}
+
+.footer_container {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none; 
+}
+
+.footer_container > span {
+    color: red;
+}
+
+.sub {
+    text-align: right;
+}
+
+.sub--sub {
+    background-color: #95E1D3;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+}
+
+.sub--input {
+    border: 1px solid #B6B6B6;
+    width: 230px;
+    height: 39px;
+}
